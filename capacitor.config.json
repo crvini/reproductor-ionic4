@@ -1,0 +1,7 @@
+{
+  "appId": "www.escuela.com",
+  "appName": "escuela",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
